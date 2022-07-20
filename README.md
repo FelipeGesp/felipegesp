@@ -8,10 +8,7 @@
 
 ##
 
-<div>
-  <a href="https://beacons.ai/felipegesp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipegesp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
  
  <footer>
   <div style="display: inline_block"><br>
