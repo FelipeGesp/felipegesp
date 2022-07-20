@@ -1,7 +1,7 @@
 <h1>Hello world! 🌍</h1>
 <b>24y born in Brazil, São Paulo</b><br>
 
-<div>I am code begginer who have a long learning journey ahead.</h2><br />
+<div>I am code begginer who have a long learning journey ahead.</h2> <br>	 .
 
   - 🌱 Now learning HTML5 CSS3 at Curso em Video
   - 👯 I’m looking to collaborate on open source projects soon
