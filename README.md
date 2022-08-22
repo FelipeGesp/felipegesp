@@ -3,7 +3,7 @@
 
 <div>I am code begginer who have a long learning journey ahead.</h2> <br>	 .
 
-  - 🌱 Now learning HTML5 CSS3 at Curso em Video
+  - 🌱 Now learning HTML5 CSS3 and JavaScript.
   - 👯 I’m looking to collaborate on open source projects soon
 
 ##
